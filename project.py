@@ -12,9 +12,6 @@ driver.get(url)
 # %%
 time.sleep(10) 
 # %%
-# Specify the number of entries to retrieve
-num_entries = 5
-# %%
 # Get the base XPath for the entries
 base_xpath = '//*[@id="topview-entry-'
 # %%
